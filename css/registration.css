@@ -1,0 +1,19 @@
+/* 
+ * Code++ Registration form 
+ * Gonzalo Pantoja
+ * 10/28/2018
+*/
+
+body {
+	padding-top: 50px;
+ 
+	padding-right: 10%;
+        padding-left: 10%;
+}
+
+.jumbotron {
+	color: white;
+	text-align: center;
+	background: linear-gradient(to bottom right, #6600ff 0%, #ff99cc 100%);
+}
+
